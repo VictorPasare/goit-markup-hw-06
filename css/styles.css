@@ -95,7 +95,7 @@ body {
    line-height:1.36;
  }
  
- .logo-link span {
+ .logo-link .web {
    color:var(--button-link-action);
  }
  
@@ -686,4 +686,8 @@ body {
   letter-spacing: 0.06em;
   border:none;
   position:relative;
+}
+
+.news {
+  color:#FFFFFF;
 }
