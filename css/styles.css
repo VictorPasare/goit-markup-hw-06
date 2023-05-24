@@ -610,6 +610,10 @@ body {
   position:relative;
 }
 
+.btn-submit:hover {
+  cursor: pointer;
+}
+
 .submit {
   display:flex;
   justify-content: center;
